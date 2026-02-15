@@ -71,6 +71,9 @@ Technologies: JavaScript • HTML • CSS • MySQL
 • Git
 
 
+
+NB: Some projects here are private for privacy reasons, but I bothered to share the most fun to share my experiences with you.🙏🏾
+
 <!--
 **kevinsimadjeu/kevinsimadjeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
