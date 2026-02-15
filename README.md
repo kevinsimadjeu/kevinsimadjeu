@@ -1,10 +1,10 @@
-# Hi, I’m Kevin Fredy SIMADJEU TCHIANGA
+# Hi👋🏾, I’m Kevin Fredy SIMADJEU TCHIANGA
 
  Third-year Computer Science student – Embedded Systems & Artificial Intelligence.  
  Based in Cameroon  
 
 
-##  About Me
+##  About Me👨🏾‍💻
 
 I am a third-year Computer Science student specializing in Embedded Systems and Artificial Intelligence. I am passionate about designing intelligent systems that integrate software, data, and hardware constraints, and I aspire to become a Machine Learning expert capable of solving real-world problems.
 
@@ -15,7 +15,7 @@ I enjoy developing end-to-end solutions that combine:
 
 
 
-##  Selected Projects
+##  Selected Projects📄
 
 ###  Real-Time Presence Detection System
 Designed an embedded system capable of detecting presence in real time while operating under hardware and timing constraints.  
@@ -47,7 +47,7 @@ Web application with a relational database backend.
 Technologies: JavaScript • HTML • CSS • MySQL
 
 
-##  Technical Stack
+##  Technical Stack📚
 
 ### Languages
 • Python
@@ -72,7 +72,7 @@ Technologies: JavaScript • HTML • CSS • MySQL
 
 
 
-NB: Some projects here are private for privacy reasons, but I bothered to share the most fun to share my experiences with you.🙏🏾
+### NB: Some projects here are private for privacy reasons, but I bothered to share the most fun to share my experiences with you.🙏🏾
 
 <!--
 **kevinsimadjeu/kevinsimadjeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
