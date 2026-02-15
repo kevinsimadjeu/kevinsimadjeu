@@ -51,13 +51,25 @@ Technologies: JavaScript • HTML • CSS • MySQL
 ##  Technical Stack
 
 ### Languages
-Python • C++ • Java • Kotlin • JavaScript • SQL  
+• Python
+• C++ 
+• Java 
+• Kotlin 
+• JavaScript 
+• SQL  
 
 ### AI & Data
-TensorFlow • Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn  
+• TensorFlow 
+• Scikit-learn 
+• Pandas 
+• NumPy 
+• Matplotlib 
+• Seaborn  
 
 ### Development
-Android • MySQL • Git
+• Android 
+• MySQL 
+• Git
 
 
 <!--
