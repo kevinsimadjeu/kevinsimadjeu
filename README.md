@@ -1,7 +1,6 @@
 # Hi, I’m Kevin Fredy SIMADJEU TCHIANGA
 
- Third-year Computer Science student – Embedded Systems & Artificial Intelligence  
- Aspiring Machine Learning Expert  
+ Third-year Computer Science student – Embedded Systems & Artificial Intelligence.  
  Based in Cameroon  
 
 
