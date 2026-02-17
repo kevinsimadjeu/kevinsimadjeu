@@ -20,7 +20,7 @@ I enjoy developing end-to-end solutions that combine:
 ###  Real-Time Presence Detection System
 Designed an embedded system capable of detecting presence in real time while operating under hardware and timing constraints.  
 
-Skills applied: C++ • Embedded Architecture • Real-Time Systems • Optimization
+Skills applied: Python ,C++ • Embedded Architecture • Real-Time Systems • Optimization, image processing 
 
 ---
 
@@ -31,20 +31,20 @@ Complete Machine Learning pipeline:
 - Model training and validation  
 - Performance evaluation  
 
-Technologies: Python • Pandas • Scikit-learn • TensorFlow
+Technologies: ``` Python • Pandas • Scikit-learn • TensorFlow```
 
 
 ###  Android Applications
 - Task Management App  
 - Unit Converter App  
 
-Technologies: Java • Kotlin • Android SDK
+Technologies: ```Java • Kotlin • Android SDK```
 
 
 ###  Municipal Management Website
 Web application with a relational database backend.  
 
-Technologies: JavaScript • HTML • CSS • MySQL
+Technologies: ``` JavaScript • HTML • CSS • MySQL```
 
 
 ##  Technical Stack📚
