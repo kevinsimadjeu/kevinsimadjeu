@@ -20,9 +20,9 @@ I enjoy developing end-to-end solutions that combine:
 ###  Real-Time Presence Detection System
 Designed an embedded system capable of detecting presence in real time while operating under hardware and timing constraints.  
 
-Skills applied: Python ,C++ • Embedded Architecture • Real-Time Systems • Optimization, image processing 
+Skills applied: ```Python ,C++ • Embedded Architecture • Real-Time Systems • Optimization, image processing ```
 
----
+
 
 ###  Diabetes Risk Predictive Model
 Complete Machine Learning pipeline:
