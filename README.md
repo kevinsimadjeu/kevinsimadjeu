@@ -50,27 +50,31 @@ Technologies: JavaScript • HTML • CSS • MySQL
 ##  Technical Stack📚
 
 ### Languages
+```
 • Python
 • C++ 
 • Java 
 • Kotlin 
 • JavaScript 
 • SQL  
+```
 
 ### AI & Data
+```
 • TensorFlow 
 • Scikit-learn 
 • Pandas 
 • NumPy 
 • Matplotlib 
 • Seaborn  
-
+```
 ### Development
+```
 • Android 
 • MySQL 
 • Git
 
-
+```
 
 ### NB: Some projects here are private for privacy reasons, but I bothered to share the most fun to share my experiences with you.🙏🏾
 
